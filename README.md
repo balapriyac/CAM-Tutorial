@@ -1,4 +1,4 @@
 # CAM Tutorial
 
-- Images folder
-- Colab notebook
+- [Images folder](https://github.com/balapriyac/CAM-Tutorial/tree/main/images)
+- [Colab notebook](https://github.com/balapriyac/CAM-Tutorial/tree/main/images)
